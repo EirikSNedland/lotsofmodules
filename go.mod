@@ -1,4 +1,4 @@
-module github.com/EirikSNedland/lotsofmodules/myquotes
+module github.com/EirikSNedland/lotsofmodules
 
 go 1.17
 
